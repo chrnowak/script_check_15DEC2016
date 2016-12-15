@@ -6,5 +6,7 @@ so we checked the scripts
 the files are:
 
  cad_fg == Fasting glucose effect per mmol/l from MAGIC (https://www.magicinvestigators.org/downloads/) - published by Scott et al. 2012, PMID  22885924
+ 
  cardiogram_fg == genetic associations with CAD risk, downloaded from http://www.cardiogramplusc4d.org/
+ 
  Web appendix == Methods/Script appendix from Boweden, Davey-Smith, Burgess 2015, PMID: 26050253
