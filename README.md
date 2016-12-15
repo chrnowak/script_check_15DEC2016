@@ -1,7 +1,7 @@
 # script_check_15DEC2016
 
 In the Manuscript, the p-value for the causal OR of fasting glucose on CAD risk in CARDIoGRAMC4D looked too large
-so we checked the scripts - no errors detected
+so we checked the scripts 
 
 the files are:
 
